@@ -1,1 +1,10 @@
-
+VAProxy.MainMenuSettings,https://api.github.com/repos/tairasoul/VAProxy.MainMenuSettings/releases,Speedrunning
+VAProxy.SpeedrunningUtils,https://api.github.com/repos/tairasoul/VAProxy.SpeedrunningUtils/releases,Speedrunning
+VAProxy.PageFramework,https://api.github.com/repos/tairasoul/VAProxy.PageFramework/releases,Speedrunning
+VAProxy.PlayableSin,https://api.github.com/repos/vainstar1/VAProxy.PlayableSin/releases,Optional
+VAProxy.FOVMod,https://api.github.com/repos/vainstar1/VAProxy.FOVMod/releases,Optional
+VAProxy.FreecamMod,https://api.github.com/repos/tairasoul/VAProxy.FreecamMod/releases,Optional
+VAProxy.SaveExtender,https://api.github.com/repos/tairasoul/VAProxy.SaveExtender/releases,Optional
+VAProxy.SettingsAPI,https://api.github.com/repos/tairasoul/SettingsAPI.VAProxy/releases,Optional
+Any%,https://raw.githubusercontent.com/tairasoul/VAProxy.SpeedrunConfigs/main/oddsnothere/Build%2010-24-24/anySD3.json,Splits
+All Bosses,https://raw.githubusercontent.com/tairasoul/VAProxy.SpeedrunConfigs/main/oddsnothere/Build%2010-24-24/allbosses0.3.json,Splits

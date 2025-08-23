@@ -1,7 +1,7 @@
 VAProxy.MainMenuSettings,https://api.github.com/repos/tairasoul/VAProxy.MainMenuSettings/releases,Speedrunning
 VAProxy.SpeedrunningUtils,https://api.github.com/repos/tairasoul/VAProxy.SpeedrunningUtils/releases,Speedrunning
 VAProxy.PageFramework,https://api.github.com/repos/tairasoul/VAProxy.PageFramework/releases,Speedrunning
-VAProxy.PlayableSin,https://api.github.com/repos/vainstar1/VAProxy.PlayableSin/releases,Optional
+VAProxy.PlayableSin,https://api.github.com/repos/vainstar1/VAProxy.PlayableSin/releases,Cosmetics
 VAProxy.FOVMod,https://api.github.com/repos/vainstar1/VAProxy.FOVMod/releases,Optional
 VAProxy.FreecamMod,https://api.github.com/repos/tairasoul/VAProxy.FreecamMod/releases,Optional
 VAProxy.SaveExtender,https://api.github.com/repos/tairasoul/VAProxy.SaveExtender/releases,Optional

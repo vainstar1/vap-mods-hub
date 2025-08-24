@@ -4,6 +4,7 @@ VAProxy.PageFramework,https://api.github.com/repos/tairasoul/VAProxy.PageFramewo
 VAProxy.PlayableSin,https://api.github.com/repos/vainstar1/VAProxy.PlayableSin/releases,Cosmetics
 VAProxy.FOVMod,https://api.github.com/repos/vainstar1/VAProxy.FOVMod/releases,Optional
 VAProxy.FreecamMod,https://api.github.com/repos/tairasoul/VAProxy.FreecamMod/releases,Optional
+VAProxy.UIToggle,https://ai.github.com/repos/tairasoul/VAProxy.UIToggle/releases,Optional
 VAProxy.SaveExtender,https://api.github.com/repos/tairasoul/VAProxy.SaveExtender/releases,Optional
 VAProxy.SettingsAPI,https://api.github.com/repos/tairasoul/SettingsAPI.VAProxy/releases,Optional
 VAProxy.ShadowSkin,https://api.github.com/repos/vainstar1/VAProxy.ShadowSkin/releases,Cosmetics

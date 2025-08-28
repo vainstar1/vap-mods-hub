@@ -1,0 +1,22 @@
+{
+  "vap-sr1v1": {
+    "display": "Vap SR 1v1",
+    "category": "Speedrunning",
+    "type": "mod"
+  },
+  "cool-cosmetic": {
+    "display": "Cool Cosmetic",
+    "category": "Cosmetics",
+    "type": "mod"
+  },
+  "optional-helper": {
+    "display": "Optional Helper",
+    "category": "Optional",
+    "type": "mod"
+  },
+  "any-percent-splits": {
+    "display": "Any% Splits",
+    "category": "Splits",
+    "type": "split"
+  }
+}

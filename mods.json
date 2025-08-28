@@ -1,16 +1,16 @@
 {
-  "vap-sr1v1": {
-    "display": "Vap SR 1v1",
+  "vapsr-1v1": {
+    "display": "VAPSR1v1",
     "category": "Speedrunning",
     "type": "mod"
   },
-  "cool-cosmetic": {
-    "display": "Cool Cosmetic",
+  "PlayableSol": {
+    "display": "PlayableSol",
     "category": "Cosmetics",
     "type": "mod"
   },
-  "optional-helper": {
-    "display": "Optional Helper",
+  "FreecamMod": {
+    "display": "FreecamMod",
     "category": "Optional",
     "type": "mod"
   },

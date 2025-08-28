@@ -18,5 +18,10 @@
     "display": "Any%",
     "category": "Splits",
     "type": "split"
+  },
+  "AllBossesSplits": {
+    "display": "All Bosses",
+    "category": "Splits",
+    "type": "split"
   }
 }

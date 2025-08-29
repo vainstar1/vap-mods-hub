@@ -44,6 +44,11 @@
       "category": "Optional",
       "type": "mod"
   },
+    "UIToggle": {
+      "display": "UIToggle",
+      "category": "Optional",
+      "type": "mod"
+  },
     "UnityExplorer": {
     "display": "UnityExplorer",
     "category": "Optional",

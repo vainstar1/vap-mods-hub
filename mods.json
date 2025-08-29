@@ -1,23 +1,23 @@
 {
   "VAPSR1v1": {
-    "display": "VAPSR1v1",
-    "category": "Speedrunning",
-    "type": "mod"
+      "display": "VAPSR1v1",
+      "category": "Speedrunning",
+      "type": "mod"
   },
     "MainMenuSettings": {
-    "display": "MainMenuSettings",
-    "category": "Speedrunning",
-    "type": "mod"
+      "display": "MainMenuSettings",
+      "category": "Speedrunning",
+      "type": "mod"
   },
     "UIWindowPageFramework": {
-    "display": "UIWindowPageFramework",
-    "category": "Speedrunning",
-    "type": "mod"
+      "display": "UIWindowPageFramework",
+      "category": "Speedrunning",
+      "type": "mod"
   },
     "SpeedrunningUtils": {
-    "display": "SpeedrunningUtils",
-    "category": "Speedrunning",
-    "type": "mod"
+      "display": "SpeedrunningUtils",
+      "category": "Speedrunning",
+      "type": "mod"
   },
     "PlayableSol": {
       "display": "PlayableSol",

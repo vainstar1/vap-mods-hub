@@ -4,24 +4,59 @@
     "category": "Speedrunning",
     "type": "mod"
   },
-  "PlayableSol": {
-    "display": "PlayableSol",
+    "MainMenuSettings": {
+    "display": "MainMenuSettings",
+    "category": "Speedrunning",
+    "type": "mod"
+  },
+    "UIWindowPageFramework": {
+    "display": "UIWindowPageFramework",
+    "category": "Speedrunning",
+    "type": "mod"
+  },
+    "SpeedrunningUtils": {
+    "display": "SpeedrunningUtils",
+    "category": "Speedrunning",
+    "type": "mod"
+  },
+    "PlayableSol": {
+      "display": "PlayableSol",
+      "category": "Cosmetics",
+      "type": "mod"
+  },
+    "PlayableSin": {
+      "display": "PlayableSin",
+      "category": "Cosmetics",
+      "type": "mod"
+  },
+    "ShadowSkin": {
+      "display": "ShadowSkin",
+      "category": "Cosmetics",
+      "type": "mod"
+  },
+    "V-06head": {
+    "display": "V-06head",
     "category": "Cosmetics",
     "type": "mod"
   },
-  "FreecamMod": {
-    "display": "FreecamMod",
+    "FreecamMod": {
+      "display": "FreecamMod",
+      "category": "Optional",
+      "type": "mod"
+  },
+    "UnityExplorer": {
+    "display": "UnityExplorer",
     "category": "Optional",
     "type": "mod"
   },
-  "AnyPercentSplits": {
-    "display": "Any%",
-    "category": "Splits",
-    "type": "split"
+    "AnyPercentSplits": {
+      "display": "Any%",
+      "category": "Splits",
+      "type": "split"
   },
-  "AllBossesSplits": {
-    "display": "All Bosses",
-    "category": "Splits",
-    "type": "split"
+    "AllBossesSplits": {
+      "display": "All Bosses",
+      "category": "Splits",
+      "type": "split"
   }
 }
